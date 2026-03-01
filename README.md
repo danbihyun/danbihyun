@@ -50,4 +50,3 @@ AI 기반 상품 인식 스마트 쇼핑 서비스
 ## 📫 Contact
 
 - **Email:** dbhyun02@gmail.com
-- **Notion:** 추후 업데이트 예정
